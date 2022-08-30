@@ -1,0 +1,4 @@
+#Wed Jun 01 20:30:52 CDT 2022
+base.0=/Users/ignaciogonzalezlopez/Documents/Personal/Proyects/Kotlin/DessertClicker-Starter/app/build/intermediates/dex/debug/mergeDexDebug/classes.dex
+renamed.0=classes.dex
+path.0=classes.dex
